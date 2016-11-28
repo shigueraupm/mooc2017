@@ -1,8 +1,9 @@
 # mooc2017
 
-Este repositorio contiene el código fuente correspondiente a los ejemplos y programas que se desarrollan en el curso 'Matlab y Octave para Ingenieros y Científicos' que imparte la Universidad Politécnica de Madrid (España) a través de la plataforma MiriadaX
+Este repositorio contiene el código fuente correspondiente a los ejemplos y programas que se desarrollan en el curso **'Matlab y Octave para Ingenieros y Científicos'** que imparte la Universidad Politécnica de Madrid (España) a través de la plataforma MiriadaX
 
 El curso lo podéis encontrar en: 
+
 <https://miriadax.net/web/matlab-y-octave-para-ingenieros-y-cientificos>
 
 Los programas se han repartido en diferentes directorios de acuerdo a los distintos módulos de que consta el curso.
