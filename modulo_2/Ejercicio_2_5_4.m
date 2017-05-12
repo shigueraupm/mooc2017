@@ -2,13 +2,12 @@
 % MOOC UPM
 % MATLAB y Octave para Ingenieros y Cientificos (2017)
 % --------------------------------------------------------
-% Ejercicio 1.5.2
+% Ejercicio 2.5.4
 % --------------------------------------------------------
 
-b1 = input('Base del trapecio         : ');
-b2 = input('Lado superior del trapecio: ');
-h  = input('Altura del trapecio       : ');
+A=input('Introduce una matriz: ');
 
-area = (b1 + b2) / 2 * h;
+B=[ [A,sum(A')'] ; [sum(A),sum(sum(A))] ];
 
-fprintf('El area del trapecio es %.2f \n', area);
+disp('La matriz resultado es: ');
+disp(B);

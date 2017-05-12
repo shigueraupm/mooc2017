@@ -1,4 +1,9 @@
+% --------------------------------------------------------
+% MOOC UPM
+% MATLAB y Octave para Ingenieros y Cientificos (2017)
+% --------------------------------------------------------
 % Ejercicio 1.5.3
+% --------------------------------------------------------
 
 edad = input('Introduzca su edad      : ');
 fecha_act = input('Introduzca el año actual: ');
